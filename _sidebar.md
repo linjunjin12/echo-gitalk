@@ -3,3 +3,6 @@
   - V5.4
     - [指导/发行结果解析转发与自动转发](demand-iteration/v5.4/指导信息转发-技术方案.md)
     - [CCDC中债和聚源数据合并](demand-iteration/v5.4/CCDC中债和聚源数据合并-技术方案.md)
+  - V5.6
+    - [数据同步分发器](demand-iteration/v5.6/数据同步分发器.md)
+    - [债券推送基于内存ID查询](demand-iteration/v5.6/债券推送基于内存ID查询.md)
