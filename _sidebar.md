@@ -8,3 +8,5 @@
     - [债券推送基于内存ID查询](demand-iteration/v5.6/债券推送基于内存ID查询.md)
   - V2.9
     - [江苏银行台账推送](demand-iteration/v2.9/江苏银行台账推送-技术方案.md)
+  - V5.12
+    - [消息链路改造](demand-iteration/v5.12/消息链路改造.md)
